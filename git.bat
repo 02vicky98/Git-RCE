@@ -1,1 +1,1 @@
-powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass .\test\resources\static.ps1
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass static.ps1
